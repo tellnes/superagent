@@ -23,5 +23,6 @@
     }
   }
   , "main": "index"
+  , "browserify": "lib/superagent.js"
   , "engines": { "node": "*" }
 }
